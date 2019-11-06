@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+* {box-sizing: border-box;}
+.col {
+  float: left;
+  width: 20%;
+  text-align: center;
+}
+.avatar {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+}
